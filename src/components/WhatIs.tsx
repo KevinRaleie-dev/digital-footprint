@@ -13,7 +13,7 @@ const WhatIs: React.FC = () => {
   return (
     <section id="what-is" className="bg-gray-100 p-8">
       <h2 className="text-3xl font-bold mb-6 text-center">What is a Digital Footprint?</h2>
-      <p className="text-xl mb-8 text-center">A digital footprint is the trail of data you leave behind when using the internet. It includes:</p>
+      <p className="text-xl mb-8 text-center">Digital footprints are the traces that social media users leave behind from their online activity in the digital age. These footprints are made up of the data that users create during their numerous online activities. It includes:</p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {footprintItems.map((item, index) => (
           <div key={index} className="bg-white p-6 rounded-lg shadow-md transition-transform hover:scale-105">

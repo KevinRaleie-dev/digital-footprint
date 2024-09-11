@@ -17,7 +17,7 @@ function App() {
         <BestPractices />
       </main>
       <footer className="bg-gray-800 text-white text-center p-4 mt-8">
-        <p>&copy; 2024 Digital Footprint Awareness. All rights reserved.</p>
+        <p>&copy; 18705014, BP Thobejane  </p>
       </footer>
     </div>
   )

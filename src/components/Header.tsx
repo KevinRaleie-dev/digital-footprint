@@ -19,7 +19,6 @@ const Header: React.FC = () => {
             <li><a href="#manage" onClick={scrollToSection('manage')} className="hover:underline font-medium">How to Manage</a></li>
             <li><a href="#risks" onClick={scrollToSection('risks')} className="hover:underline font-medium">Risks</a></li>
             <li><a href="#best-practices" onClick={scrollToSection('best-practices')} className="hover:underline font-medium">Best Practices</a></li>
-            <li><a href="#assessment" onClick={scrollToSection('assessment')} className="hover:underline font-medium">Self-Assessment</a></li>
           </ul>
         </nav>
       </div>
